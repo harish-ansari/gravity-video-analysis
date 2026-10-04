@@ -177,6 +177,9 @@ Therefore:
 ---
 
 ## 📈 Graphs
+## Results
+
+![Gravity Comparison](results/graphs/gravity_comparison.png)
 
 The project generates graphs showing:
 
